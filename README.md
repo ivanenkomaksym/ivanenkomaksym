@@ -34,4 +34,4 @@ I am a Software Architect with more than a decade of industry experience. I spec
 ![OReilly](https://img.shields.io/badge/OReilly-red?style=flat&logo=oreilly)&nbsp;
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanenkomaksym&hide=Smarty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanenkomaksym&hide=Smarty,CSS,HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
