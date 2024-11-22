@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am a Software Architect with more than a decade of industry experience. I specialize in SoA, REST, C++, C#, and .NET. I have experience building distributed systems, multi-threaded applications and desktop applications.
+I am a Software Architect with more than a decade of industry experience. I specialize in Cloud, SoA, REST, C++, C#, and .NET. I have experience building cloud-native distributed systems, multi-threaded applications and desktop applications. I keep current with the latest technology and industry trends. I enjoy integrating and connecting different frameworks and technologies to create cohesive solutions. I demonstrate this by building and showcasing small, well-documented prototypes on my public GitHub account.
 
 ### 🔗 Links
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanenkomak@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanenkomaksym/)&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ivanenkomak)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/m8double)
 
 ### 📋 Languages
 
@@ -20,6 +20,7 @@ I am a Software Architect with more than a decade of industry experience. I spec
 
 ### ☁️ Hosting/SaaS
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🛠 Tools:
 
@@ -39,6 +40,7 @@ I am a Software Architect with more than a decade of industry experience. I spec
 
 ### 💾 Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
