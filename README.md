@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Architect with more than a decade of industry experience. I specialize in Cloud, SoA, REST, C++, C#, and .NET. I have experience building cloud-native distributed systems, multi-threaded applications and desktop applications. I keep current with the latest technology and industry trends. I enjoy integrating and connecting different frameworks and technologies to create cohesive solutions. I demonstrate this by building and showcasing small, well-documented prototypes on my public GitHub account.
+Experienced Software Architect with over 12 years in the industry, specializing in Cloud Computing, Microservices, Event-Driven, and Service-Oriented Architectures. Adept at building scalable, cloud-native, AI-powered distributed systems, leveraging deep expertise in the Azure cloud platform and the .NET ecosystem, alongside containerization (Docker, Kubernetes, Helm) and Infrastructure as Code (Terraform). Proficient in optimizing and maintaining automated CI/CD pipelines (Git, Azure DevOps) to ensure smooth development workflows. Proven track record of providing technical leadership and mentorship, guiding teams to deliver innovative solutions that drive efficiency and reduce operational costs. Skilled in collaborating with clients and business stakeholders to inform technical decision-making and successfully execute projects. Passionate about staying at the forefront of emerging technologies, AI advancements and development copilots, to consistently integrate diverse frameworks and craft cohesive, high-performance solutions.
 
 ### 🔗 Links
 
@@ -11,16 +11,17 @@ I am a Software Architect with more than a decade of industry experience. I spec
 
 ### 📋 Languages
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ☁️ Hosting/SaaS
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -29,6 +30,8 @@ I am a Software Architect with more than a decade of industry experience. I spec
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=fff)&nbsp;
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=fff)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
